@@ -25,7 +25,7 @@ Ich will  ein kleines schach basiert es spiel programmieren, in dem der spieler 
 | 2.1  | Spiel startet            | -                                | Spielfeld                                                                           |
 | 2.2  | Spiel läuft              | Spieler Plaziert Figur           | Spielfeld mit Position aller Figuren                                                                          |
 | 3.1  |  Spiel startet            | -              |              "Please choose what piece you would like to play:"                                                               |
-| 5.1  |                          | -                                |                                                                        |
+| 4.1  | Spieler verliert          | -                                |  Spielfeld mit Position aller Figuren und markierung der falsch platzierten Figur                                                                      |
 | 5.1  |                          | -                                |                                                                           |
 | 5.1  |                          | -                                |                                                                           |
 | 5.1  |                          | -                                |                                                                           |
