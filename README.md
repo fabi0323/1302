@@ -13,7 +13,7 @@ Ich will  ein kleines schach basiert es spiel programmieren, in dem der spieler 
 | 3    | Muss            | Funktional | Als spieler möchte ich zwischen den Figuren auswählen können, um mehr Abwechslung zu haben.                                                                                                                                                              |
 | 4    | Muss            | Funktional | Als spieler möchte ich sehen können wann ich verloren habe, um aus meinen fehlern zu lernen.                                                                                                                                                               |
 | 5    | Muss            | Funktional | Als Spieler möchte ich die anzahl platzierten Figuren sehen, um mich mit freunden messen zu können.                                                                                                                                                              |
-| 6    | Muss            | Funktional | Als Spieler möchte ich erneut spielen können, um nicht jedes mal das game neustarten zu müssen.                                                                                                                                                              |
+
 
 
 
@@ -26,11 +26,10 @@ Ich will  ein kleines schach basiert es spiel programmieren, in dem der spieler 
 | 2.2  | Spiel läuft              | Spieler Plaziert Figur           | Spielfeld mit Position aller Figuren                                                                          |
 | 3.1  |  Spiel startet            | -              |              "Please choose what piece you would like to play:"                                                               |
 | 4.1  | Spieler verliert          | -                                |  Spielfeld mit Position aller Figuren und markierung der falsch platzierten Figur                                                                      |
-| 5.1  |                          | -                                |                                                                           |
-| 5.1  |                          | -                                |                                                                           |
-| 5.1  |                          | -                                |                                                                           |
-| 5.1  |                          | -                                |                                                                           |
-
+| 5.1  | spieler verliert / gewinnt   | -                                |   "Do you want to play again? (y/n): "                                                                        |
+| 5.2  | spieler gewinnt / verliert    | y                                |  Spiel startet neu                                                                         |
+| 5.3  |   spieler gewinnt / verliert  | n                                |      Spiel startet neu                                                                     |
+                                                                     
 
 ### Planen
 
