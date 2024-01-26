@@ -31,44 +31,23 @@ Ich will  ein kleines schach basiert es spiel programmieren, in dem der spieler 
 | 5.3  |   spieler gewinnt / verliert  | n                                |      Spiel startet neu                                                                     |
                                                                      
 
-### Planen
-
-| US-№ | Datum      | Arbeitspaket                                           | Verantwortliche Person           |
-| ---- | ---------- | ------------------------------------------------------ | -------------------------------- |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
-| 4    |            |                                                        | Fabian Meyer                     |
 
 
 ### Testprotokoll
 
 | TC-№   | Datum      | Resultat | Tester        |
 | ------ | ---------- | -------- | ------------- |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
-| 1.5.1  | 02.02.2023 | OK       | Fabian Meyer  |
+| 1.1.1  | 02.02.2023 | OK       | Fabian Meyer  |
+| 2.1.1  | 02.02.2023 | OK       | Fabian Meyer  |
+| 2.2.1  | 02.02.2023 | OK       | Fabian Meyer  |
+| 3.1.1  | 02.02.2023 | NOT OK       | Fabian Meyer  |
+| 4.1.1  | 02.02.2023 | OK       | Fabian Meyer  |
+| 5.1.1  | 02.02.2023 | OK       | Fabian Meyer  |
+| 5.2.1  | 02.02.2023 | OK       | Fabian Meyer  |
+| 5.3.1  | 02.02.2023 | OK       | Fabian Meyer  |
+
 
 
 ### Testbericht
 
-Das Projekt funktioniert ziemlich fehlerfrei.
+Das Projekt funktioniert fehlerfrei. User story 3 nicht umgesetzt. 
