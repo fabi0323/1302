@@ -8,16 +8,12 @@ Ich will  ein kleines schach basiert es spiel programmieren, in dem der spieler 
 
 | US-№ | Verbindlichkeit | Typ        | Beschreibung                                                                                                                                                  |
 | ---- | --------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
-| 1    | Muss            | Funktional |                                                                                                                                                               |
+| 1    | Muss            | Funktional | Als spieler möchte ich eine kurze einführung bekommen, um das spiel zu verstehen                                                                                                                                                              |
+| 2    | Muss            | Funktional | Als spieler möchte ich das spielfeld sehen, um spielen zu können.                                                                                                                                                              |
+| 3    | Muss            | Funktional | Als spieler möchte ich zwischen den Figuren auswählen können, um mehr Abwechslung zu haben.                                                                                                                                                              |
+| 4    | Muss            | Funktional | Als spieler möchte ich sehen können wann ich verloren habe, um aus meinen fehlern zu lernen.                                                                                                                                                               |
+| 5    | Muss            | Funktional | Als Spieler möchte ich die anzahl platzierten Figuren sehen, um mich mit freunden messen zu können.                                                                                                                                                              |
+| 6    | Muss            | Funktional | Als Spieler möchte ich erneut spielen können, um nicht jedes mal das game neustarten zu müssen.                                                                                                                                                              |
 
 
 
