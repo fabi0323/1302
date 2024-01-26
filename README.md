@@ -22,10 +22,10 @@ Ich will  ein kleines schach basiert es spiel programmieren, in dem der spieler 
 | TC-№ | Ausgangslage             | Eingabe                          | Erwartete Ausgabe                                                         |
 | ---- | ------------------------ | -------------------------------- | ------------------------------------------------------------------------- |
 | 1.1  | Spiel startet            | -                                |  "Welcome to the Knight Placement Game!" "Try to place as many knights as possible without one capturing another."  "Enter row and column to place a knight (e.g., 1 2):"|
-| 5.1  |                          | -                                |                                                                           |
-| 5.1  |                          | -                                |                                                                           |
-| 5.1  |                          | -                                |                                                                           |
-| 5.1  |                          | -                                |                                                                           |
+| 2.1  | Spiel startet            | -                                | Spielfeld                                                                           |
+| 2.2  | Spiel läuft              | Spieler Plaziert Figur           | Spielfeld mit Position aller Figuren                                                                          |
+| 3.1  |  Spiel startet            | -              |              "Please choose what piece you would like to play:"                                                               |
+| 5.1  |                          | -                                |                                                                        |
 | 5.1  |                          | -                                |                                                                           |
 | 5.1  |                          | -                                |                                                                           |
 | 5.1  |                          | -                                |                                                                           |
